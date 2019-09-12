@@ -1,3 +1,8 @@
-Hi there, welcome to responsive design
-
-Testing out the aspects of responsive design
+  # Responsive Design
+  
+  Welcome to Responsive Design.  This is a non-bootstrap version.
+  
+  ## Technologies
+  
+  * HTML5
+  * CSS3
